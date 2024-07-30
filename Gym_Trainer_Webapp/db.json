@@ -1,0 +1,188 @@
+{
+  "users": [
+    {
+      "id": "f0b8",
+      "username": "Sachiv 26",
+      "email": "sachiv26@gmail.com",
+      "password": "sachiv26"
+    },
+    {
+      "id": "049b",
+      "username": "demouser",
+      "email": "demo@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "d88f",
+      "username": "sibiarasu",
+      "email": "sibiarasu@gmail.com",
+      "password": "Sibiara@23"
+    },
+    {
+      "id": "8b1b",
+      "username": "Saravanan",
+      "email": "saravanan@gmaol.com",
+      "password": "Saravasn@234"
+    }
+  ],
+  "demovideodata": [
+    {
+      "id": "9bc3",
+      "title": "km  ds",
+      "description": "x,vm ",
+      "src": "https://www.youtube.com/embed/2SchMMbHcdg?si=zM1ywfuDEhWQj5zJ"
+    },
+    {
+      "id": "8d70",
+      "title": "scz",
+      "description": "sca",
+      "src": "awcs"
+    },
+    {
+      "id": "6209",
+      "title": " AX.",
+      "description": " A.S",
+      "src": "dm>AS "
+    },
+    {
+      "id": "9275",
+      "title": " azlcn:OQUDW",
+      "description": "QDH9W",
+      "src": "DGQ;BAIC"
+    },
+    {
+      "id": "61e5",
+      "title": "CLANSQDWIBUL",
+      "description": "QDWHILB",
+      "src": "DWLGACBSIU"
+    },
+    {
+      "id": "dacf",
+      "title": "NL ",
+      "description": "BIAWDLK",
+      "src": "BISlx"
+    },
+    {
+      "id": "061b",
+      "title": "qwoid",
+      "description": "qibdlc elicbks  seivklbsj vebifewfwfppppppppppppppppwiubvkjsdbvlskdjxmv szxilvukbsjnvaisulkbvj zsivkulbj dsivkludbj siulvkjdbn siuklvdbj eszildb ",
+      "src": "bifvsdzl "
+    },
+    {
+      "id": "5618",
+      "title": "new",
+      "description": "nwewiandkm",
+      "src": ".kshjndfl,w"
+    },
+    {
+      "id": "2767",
+      "title": "gnddhnc",
+      "description": "hmf",
+      "src": "mv n "
+    }
+  ],
+  "admins": [
+    {
+      "id": "ad01",
+      "username": "admin1",
+      "email": "admin1@gmail.com",
+      "password": "Admin1@gym"
+    }
+  ],
+  "workouts": [
+    {
+      "id": "workout-id",
+      "name": "workout-name",
+      "description": "workout-description",
+      "exercises": [
+        {
+          "id": "exercise-id",
+          "name": "exercise-name",
+          "reps": "number-of-reps"
+        }
+      ]
+    },
+    {
+      "id": "9d51",
+      "name": ".  vbd/rf",
+      "description": "esgm'dvx",
+      "exercises": [
+        {
+          "id": "",
+          "name": "vd.g vx",
+          "reps": "2321"
+        }
+      ]
+    },
+    {
+      "id": "f4e6",
+      "name": "dwm;l",
+      "description": " few.c",
+      "exercises": [
+        {
+          "id": "",
+          "name": "3wr2rwd",
+          "reps": "1245478"
+        }
+      ]
+    },
+    {
+      "id": "4fe9",
+      "name": "sadlk ",
+      "description": "xA? l",
+      "exercises": [
+        {
+          "id": "",
+          "name": "AXnl s:",
+          "reps": "2"
+        },
+        {
+          "id": "",
+          "name": "FNA;L",
+          "reps": "12"
+        }
+      ]
+    },
+    {
+      "id": "733f",
+      "name": "aefasdcwaefs",
+      "description": "efwaes",
+      "exercises": [
+        {
+          "id": "",
+          "name": "awef",
+          "reps": "124"
+        }
+      ]
+    },
+    {
+      "id": "ab16",
+      "name": "dsfdnlzsd",
+      "description": "efo;si",
+      "exercises": [
+        {
+          "id": "",
+          "name": ";efwub",
+          "reps": "3298479"
+        },
+        {
+          "id": "",
+          "name": "382",
+          "reps": "239"
+        }
+      ]
+    },
+    {
+      "id": "58f9",
+      "name": "lse",
+      "description": "kdfs",
+      "exercises": [
+        {
+          "id": "",
+          "name": "ksnekfn",
+          "reps": "27"
+        }
+      ]
+    }
+  ]
+}
